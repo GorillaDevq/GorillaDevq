@@ -2,13 +2,13 @@
 
 ---
 ## Обо мне:
-
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 Я пришел в веб-разработку с одной целью. Оставить в этом мире
 реализованный продукт, который будет полезен для людей.
 Люблю разбираться в сложных кодах 👨‍💻 и милых котиков 🐈
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
----
+
 ## На данный момент мой стек образован из: 
 ![HYML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
