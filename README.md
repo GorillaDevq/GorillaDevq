@@ -8,7 +8,11 @@
 Люблю разбираться в сложном коде 👨‍💻 и милых котиков 🐈
 
 
+##  GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillaDevq&theme=transparent&show_icons=true)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorillaDevq&layout=compact)
 
 ## На данный момент мой стек образован из: 
 ![HYML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
