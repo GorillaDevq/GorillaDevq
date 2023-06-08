@@ -72,7 +72,7 @@
   </a>
 
   <a href="https://github.com/GorillaDevq/react-mesto-api-full-gha" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/mesto-upd.jpg" title="Mesto" alt="Mesto" width="320"/>
+    <img src="https://sun9-66.userapi.com/impg/CMQOe22ukia91TVRA7lp0Y69T73Xf9Un9Nf6Gw/4ojynIQUPN0.jpg?size=1049x745&quality=96&sign=7c48e158201475ee88178b2ca81e82a9&type=album" title="Mesto" alt="Mesto" width="320"/>
   </a>
 
 
