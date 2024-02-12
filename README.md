@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/gorilla_dev" target="_blank">
+  <a href="https://t.me/GorillaDQ" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
