@@ -63,8 +63,8 @@
 
 ## My Projects 👩‍💻
 
-- 🛠 In "Movies-explorer," I developed features for searching, filtering, and managing movies, as well as implemented user authentication and registration. [Front-end repo link](https://github.com/GorillaDevq/movies-explorer-frontend) and [Back-end repo link](https://github.com/GorillaDevq/movies-explorer-api) 
-- 🔧 In "Mesto," I focused on creating location cards, implementing likes, and managing user profiles. [Repo Llink 🌐](https://github.com/GorillaDevq/react-mesto-api-full-gha)
-- 🧪 Currently, I'm working on a pet project in React where I'm learning TypeScript, experimenting with various state managers and new testing technologies, and setting up CI/CD pipelines. I conduct testing using Jest, react-testing-library, and WebdriverIO. [Repo Llink 🌐](https://github.com/GorillaDevq/Production-project)
+- 🛠 In "Movies-explorer," I developed features for searching, filtering, and managing movies, as well as implemented user authentication and registration. [Front-end repo link 🌐](https://github.com/GorillaDevq/movies-explorer-frontend) and [Back-end repo link 🌐](https://github.com/GorillaDevq/movies-explorer-api) 
+- 🔧 In "Mesto," I focused on creating location cards, implementing likes, and managing user profiles. [Repo Link 🌐](https://github.com/GorillaDevq/react-mesto-api-full-gha)
+- 🧪 Currently, I'm working on a pet project in React where I'm learning TypeScript, experimenting with various state managers and new testing technologies, and setting up CI/CD pipelines. I conduct testing using Jest, react-testing-library, and WebdriverIO. [Repo Link 🌐](https://github.com/GorillaDevq/Production-project)
 
 ---
