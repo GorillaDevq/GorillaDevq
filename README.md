@@ -16,7 +16,7 @@
 
 ## Briefly about me 👩‍💻
 
-- 👩‍🎓 I started learning front-end developing in 2022. Currently, I'm taking a 'Web-developer' course at Yandex.Practicum.
+- 👩‍🎓 I started learning front-end developing in 2022.
 - 😃 I would like people to have a positive experience with the web interfaces I create.
 - 🤝 I want to work in a team of professionals who are really passionate about their business.
 
