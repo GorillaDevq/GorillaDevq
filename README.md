@@ -51,7 +51,7 @@
 ## My Projects 👩‍💻
 
 - 🧪 Currently, I'm working on a pet project in React where I'm learning TypeScript, experimenting with various state managers and new testing technologies, and setting up CI/CD pipelines. I conduct testing using Jest, react-testing-library, and WebdriverIO. [Repo Link 🌐](https://github.com/GorillaDevq/Production-project)
-
+- 🚀 Contributor of open source library "reactuse" [Lib Link 🌐](https://github.com/siberiacancode/reactuse).
 ---
 
 ## Contacts 💬📧📲
