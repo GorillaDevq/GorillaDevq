@@ -2,10 +2,9 @@
 ## Briefly about me 👩‍💻
 
 - 😃 Would like people to have a positive experience with the web interfaces I create.
-- 🤝 Want to work in a team of professionals who are really passionate about their business.
 - 🗿  Have an interest in philosophy, which allows me to explore fundamental questions.
 - ☯  Also practice meditation regularly to maintain mental clarity and emotional balance.
-- 🦍 Passionate about sports and physical fitness
+- 🦍 Passionate about sports and physical fitness.
 
 ---
 
