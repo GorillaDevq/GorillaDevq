@@ -53,11 +53,6 @@
 - 🚀 Contributor of open source library "reactuse" [Lib Link 🌐](https://github.com/siberiacancode/reactuse).
 ---
 
-## LeetCode 👩‍💻
-![LeetCode Stats](https://leetcard.jacoblin.cool/GorillaDevq?theme=nord&font=IBM%20Plex%20Mono&ext=activity) 
-
----
-
 ## Contacts 💬📧📲
 
 <div align="left">
